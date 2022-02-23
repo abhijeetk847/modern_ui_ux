@@ -1,0 +1,17 @@
+# git folder...
+/.git
+
+# NPM package folder
+node_modules
+
+# CI bins
+/bin
+
+# Dist
+/dist
+
+# DLLs
+/build/dlls/prebuild
+
+package.json
+*.d.ts
